@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimationText</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="index_title"><b>POEMS</b></string>
+
+    <string-array name="poem_title">
+        <item><b>\"पिया का प्यार\"</b></item>
+        <item><b>\"जीवन\"</b></item>
+        <item><b>\"प्यार\"</b></item>
+        <item><b>\"कच्ची कली\"</b></item>
+        <item><b>\"प्रेम की गली\"</b></item>
+        <!-- <item><b>\"रास्ता\"</b></item>
+        <item><b>\"प्यार का मौसम\"</b></item>
+        <item><b>\"यादें"</b></item>
+        <item><b>\"तुझे मेरी कसम है\"</b></item>
+        <item><b>\"दिल की धड़कन\"</b></item>
+        <item><b>\"मोह\"</b></item>
+        <item><b>\"धर्म और नैतिकता\"</b></item>
+        <item><b>\"नेता\"</b></item>
+        <item><b>\"नये अर्थ\"</b></item>
+        <item><b>\"पापा की कलम\"</b></item>
+        <item><b>\"पुरुष और नारी\"</b></item>
+        <item><b>\"प्यार से जी लो जरा\"</b></item>
+        <item><b>\"प्रकृति\"</b></item>
+        <item><b>\"प्रियतम की याद में\"</b></item>
+        <item><b>\"बाढ़ का सैलाब\"</b></item>
+        <item><b>\"मानवता का स्वागत करो\"</b></item>
+        <item><b>\"मुझको करे बेचैन\"</b></item>
+        <item><b>\"मेरा जीवन\"</b></item>
+        <item><b>\"यह हम नहीं जानते\"</b></item>
+        <item><b>\"वह निश्चित ही मजदूर है\"</b></item>
+        <item><b>\"विषधर मनुष्य\"</b></item>
+        <item><b>\"सरकार बनाम किसान\"</b></item>
+        <item><b>\"हम आजाद हैं\"</b></item>
+        <item><b>\"अंबेडकर की कलम\"</b></item>
+        <item><b>\"नन्हीं परी\"</b></item> -->
+    </string-array>
+    
+    <array name="img_titles">
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+        <item>@drawable/pointer</item>
+    </array>
+
+</resources>
