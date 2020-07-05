@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428788404367",
+    "firebase_url": "https://android-squad-tutorials.firebaseio.com",
+    "project_id": "android-squad-tutorials",
+    "storage_bucket": "android-squad-tutorials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428788404367:android:e6070016dd1839ed",
+        "android_client_info": {
+          "package_name": "net.androidsquad.firebasetutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428788404367-gl0ted947ucprrqnao0kk6l8tk1k8v23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_GCm-hI7L3wB6vG_O13Xl1rES5BX3mU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
